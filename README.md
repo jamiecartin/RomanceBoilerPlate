@@ -1,7 +1,5 @@
 # LoveStory RPG Proposal 💍
 
-![Game Preview](https://via.placeholder.com/800x400.png?text=Our+Love+Story+RPG+Preview) 
-*(Consider adding a screenshot after customization)*
 
 An interactive Java-based RPG that tells the story of your relationship and culminates in a marriage proposal. Created with love for that special someone.
 
